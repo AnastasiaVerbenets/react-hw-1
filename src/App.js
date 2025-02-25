@@ -16,9 +16,9 @@ function App() {
       <p>Ласкаво просимо до нашого сайту!</p>
 
       <img
-        src={"https://cdn.pixabay.com/photo/2022/03/21/14/25/art-7083325_1280.jpg"}
-        alt={"sky"}
-        width={500}
+        src="https://cdn.pixabay.com/photo/2022/03/21/14/25/art-7083325_1280.jpg"
+        alt="sky"
+        width="500"
       />
 
       <h4>Мій улюблений сайт: <a href={favWebsite.url} target="_blank">{favWebsite.name}</a></h4>
